@@ -1,0 +1,6 @@
+@WebApplicationYeni_HostAddress = http://localhost:3416
+
+GET {{WebApplicationYeni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
